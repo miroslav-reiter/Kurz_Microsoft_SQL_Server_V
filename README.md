@@ -1,4 +1,10 @@
-# MS SQL Server
-## Microsoft SQL Server V. Optimalizacia Dopytov
+# Kurz Microsoft SQL Server V. Optimalizacia Dopytov
+:briefcase: Materiály z [kurzu Microsoft SQL Server V. Optimalizacia Dopytov](https://www.vita.sk/online-kurz-microsoft-sql-server-v-ladenie-a-optimalizacia-dopytov/)
 
-**Kurz Microsoft SQL Server V. Ladenie a optimalizácia dopytov** je určený všetkým, ktorí majú v problematike SQL Server už skúsenosti a vedomosti. Na kurze Microsoft SQL Server V. Ladenie a optimalizácia dopytov si povieme niečo o **architektúre SQL Server** a **princípe spracovania dopytu**. Naučíte sa **merať výkon databáz**y a zistíš aké sú odporúčania pre identifikáciu zamykanie a blokovanie. Po absolvovaní kurzu Microsoft SQL Server V. Ladenie a optimalizácia dopytov budeš ovládať spracovanie kurzorov v dotaze i správu konkurenčných operácií či optimalizáciu fyzických návrhov databázy.
+## 📑 Anotácia a Osnova kurzu 
+Online kurz Microsoft SQL Server V. Ladenie a Optimalizácia Dopytov určený pre tých, ktorí sa chcú naučiť **merať výkon databázy**, zisťovať a aké sú odporúčania pre identifikáciu zamykanie a blokovanie. Okrem toho budú vedieť vládať spracovanie kurzorov v dotaze i správu konkurenčných operácií či optimalizáciu fyzických návrhov databázy.
+
+1. Architektúra SQL Servera
+2. Meranie výkonu databázy
+3. Optimalizácia dotazov pre výkon
+4. Správa konkurenčných operácií
